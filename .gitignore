@@ -1,0 +1,3 @@
+# ignore edited config files (make copy from *.sample.* file)
+esp32/sensor_config.py
+raspi/config.inc.php
